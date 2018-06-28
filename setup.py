@@ -8,7 +8,6 @@ setup(name='kaggleUtils',
       author='Sergiusz Bleja',
       author_email='duckgoose@bleja.org',
       license='MIT',
-      long_description=long_description,
       packages=['kaggleUtils'],
       install_requires=['pandas', 'numpy', 'sklearn'],
       keywords=['kaggle'])
